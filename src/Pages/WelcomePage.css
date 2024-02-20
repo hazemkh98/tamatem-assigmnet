@@ -1,0 +1,12 @@
+.welcome-message {
+    padding: 20px;
+    background-color: var(--form-container-background-color);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.welcome-message p {
+    font-size: 1.6rem;
+    color: #333; /* Change text color as needed */
+}

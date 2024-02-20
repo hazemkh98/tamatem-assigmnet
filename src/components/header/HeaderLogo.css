@@ -1,0 +1,14 @@
+
+.logo-container img {
+    width: 15rem;
+    height: auto;
+}
+
+.login-form-container {
+    width: 100%;
+    max-width: 40rem;
+    margin: 4rem auto;
+    background-color: var(--window-background-color);
+}
+
+
